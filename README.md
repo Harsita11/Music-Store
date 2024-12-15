@@ -22,7 +22,6 @@ The project is revolving around a dataset from a fictional music store, focusing
 
 * SQL Tool: PostgreSQL and pgAdmin 4.
 * Basic Knowledge of SQL: Familiarity with commands like SELECT, WHERE, and GROUP BY.
-Schema Diagram- 
 
 
 
